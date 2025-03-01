@@ -4,8 +4,8 @@ function insert_Row() {
 	table.innerHTML = 
 		`
 			<tr>
-				<td>New cell1</td> 
-				<td>New cell2</td>
+				<td>New Cell1</td> 
+				<td>New Cell2</td>
 			</tr> 
 		` + table.innerHTML;
   
